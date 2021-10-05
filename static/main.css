@@ -1,7 +1,8 @@
 body {
-    background: #fafafa;
+    background: url("./img/mainpicbackroung.jpg");
     color: #333333;
     margin-top: 5rem;
+    
   }
   
   h1, h2, h3, h4, h5, h6 {
@@ -9,7 +10,7 @@ body {
   }
   
   .bg-steel {
-    background-color: #042799;
+    background-color: #b1381a;
   }
   
   .site-header .navbar-nav .nav-link {
@@ -37,7 +38,7 @@ body {
   }
   
   a.article-title:hover {
-    color: #428bca;
+    color: #f54e00;
     text-decoration: none;
   }
   
